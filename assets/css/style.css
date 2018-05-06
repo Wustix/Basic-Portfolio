@@ -1,3 +1,31 @@
-body { 
 
+/*
+=====Custom Styles===============================
+*/
+
+body { 
+    width: 960px;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+.main-content {
+    margin: auto;
+    
+}
+
+/*
+=====Header======================================
+*/
+
+.primary-header {
+    background: #ffffff;
+    border-bottom: 10px solid #cccccc;
+}
+
+/*
+=====Footer======================================
+*/
+
+.primary-footer {
+    background-color: #666666;
 }
