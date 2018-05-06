@@ -1,17 +1,4 @@
 
-/*
-=====Custom Styles===============================
-*/
-
-body { 
-    width: 960px;
-    background-color: #4aaaa5;
-    text-align: center;
-}
-.main-content {
-    margin: auto;
-    
-}
 
 /*
 =====Header======================================
@@ -20,7 +7,27 @@ body {
 .primary-header {
     background: #ffffff;
     border-bottom: 10px solid #cccccc;
+    text-align: left;
+    
 }
+
+/*
+=====Custom Styles===============================
+*/
+
+body { 
+    background: #4aaaa5;
+    align: center;
+    
+
+}
+.main-content {
+    background: #ffffff;
+    width: 960px;
+    margin: auto;
+
+}
+
 
 /*
 =====Footer======================================
@@ -28,4 +35,14 @@ body {
 
 .primary-footer {
     background-color: #666666;
+    padding: 10px;
+    text-align: center;
+}
+
+/*
+=====Typography==================================
+*/
+
+h1 {
+    color: #4aaaa5;
 }
