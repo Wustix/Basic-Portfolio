@@ -8,7 +8,9 @@
     background: #ffffff;
     border-bottom: 10px solid #cccccc;
     text-align: left;
-    
+}
+.navigation {
+    text-align: right;
 }
 
 /*
@@ -24,6 +26,7 @@ body {
 .main-content {
     background: #ffffff;
     width: 960px;
+    height: 650px;
     margin: auto;
 
 }
@@ -37,6 +40,7 @@ body {
     background-color: #666666;
     padding: 10px;
     text-align: center;
+    color: #ffffff;
 }
 
 /*
