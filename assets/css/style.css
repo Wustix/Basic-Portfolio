@@ -3,14 +3,15 @@
 /*
 =====Header======================================
 */
+h1 {
+    color: #4aaaa5;
+    background-color: #ffffff;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    border-bottom: 3px solid #cccccc;
 
-.primary-header {
-    background: #ffffff;
-    border-bottom: 10px solid #cccccc;
-    text-align: left;
-}
-.navigation {
-    text-align: right;
 }
 
 /*
@@ -19,7 +20,8 @@
 
 body { 
     background: #4aaaa5;
-    align: center;
+    margin: 0;
+    padding: 0;
 }
 .main-content {
     background: #ffffff;
@@ -32,10 +34,6 @@ body {
     border-bottom: 3px solid #dddddd
     
 }
-.paragraph {
-    float: right;
-}
-
 
 /*
 =====Footer======================================
@@ -43,7 +41,7 @@ body {
 
 .primary-footer {
     background-color: #666666;
-    padding: 10px;
+    padding: 30px;
     text-align: center;
     color: #ffffff;
 }
@@ -52,9 +50,6 @@ body {
 =====Typography==================================
 */
 
-h1 {
-    color: #4aaaa5;
-}
 
 /*
 =====Portifolio==================================
