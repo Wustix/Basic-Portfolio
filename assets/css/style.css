@@ -15,13 +15,19 @@ h1 {
 a {
     color: #4aaaa5;
     text-decoration: none;
+    padding: 0px 5px 0px 0px;
+    border-right: 2px solid gainsboro;
+}
+a:hover {
+    background-color: rgb(0, 255, 98);
 }
 .anchors {
-    position: fixed;
+    position: absolute;
     top: 20px;
-    right: 430px;
-    width: 200px;
-    margin-right: 5px;
+    right: 19%;
+    width: 300px;
+    margin: 0px 2px 0px 2px;
+    padding: 0px 5px 0px 0px;
 }
 
 aside {
@@ -41,6 +47,7 @@ body {
     background: yellow;
     margin: 0;
     padding: 0;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
 }
 .container {
     width: 960px;
@@ -107,7 +114,7 @@ body {
 .column {
     float: left;
     width: 50%;
-    padding: 10px
+    padding: 10px;
 
 }
 .column img{
