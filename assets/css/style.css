@@ -127,6 +127,21 @@ body {
 .pic {
     position: relative;   
 }
+.pic-2 {
+    position: relative;
+}
+.pic-3 {
+    position: relative;
+}
+.pic-4 {
+    position: relative;
+}
+.pic-5 {
+    position: relative;
+}
+pic-6 {
+    postition: relative;
+}
 .text-block {
     position: absolute;
     text-align: center;
