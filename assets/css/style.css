@@ -38,14 +38,19 @@ aside {
     margin: 0px 1120px 0px 477px;
     text-align: center;
 }
-
+#text-block {
+     background-color:#4aaaa5;
+    color: white;
+}
+.container-header {
+   
+}
 /*
 =====Custom Styles===============================
 */
 
 body { 
     background-image: url(../images/light-grey-terrazzo/light-grey-terrazzo.png);
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     line-height: normal;
 }
 .container {
@@ -104,21 +109,19 @@ body {
 /*
 =====Typography==================================
 */
+p,
+.anchors,
+.primary-footer,
+#form {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
 
+}
 
 /*
 =====Portifolio==================================
 */
 
-.column {
-    float: left;
-    width: 50%;
-    padding: 10px;
 
-}
-.column img{
-    margin: 15px;
-}
 .row:after {
     content: "";
     display: table;
@@ -145,12 +148,21 @@ body {
 .text-block {
     position: absolute;
     text-align: center;
-    background-color: green;
+    background-color:#4aaaa5;
     color: white;
-    padding-right: 60px;
-    padding-left: 59px;
-    bottom: 50px;
-    left: 15px;
+    padding: 10px 0px 10px 0px;
+    bottom: 5%;
+    margin: 0px;
+    width: 200px;    
+}
+.column-1-6 {
+    width: 50%;
+    display: inline-block;
+}
+.column-2-6 {
+    width: 50%;
+    float: right;
+    
 }
 
 
