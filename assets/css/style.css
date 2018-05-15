@@ -5,9 +5,8 @@
 */
 
 h1 {
-    
-    color: #4aaaa5;
     background-color: #ffffff;
+    color: #4aaaa5;   
     font-family: "Georgia", Times, Times New Roman, serif;
     border-bottom: 3px solid #cccccc;
     font-size: 200%;    
@@ -37,13 +36,6 @@ aside {
     padding-bottom: 20px;
     margin: 0px 1120px 0px 477px;
     text-align: center;
-}
-#text-block {
-     background-color:#4aaaa5;
-    color: white;
-}
-.container-header {
-   
 }
 /*
 =====Custom Styles===============================
