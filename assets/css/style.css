@@ -53,6 +53,12 @@ h1 {
     color: #4aaaa5;
     font-weight: bold;
 }
+#portlink {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #ffffff;
+    border: none;
+
+}
 /*
 =====Custom Styles===============================
 */
@@ -154,10 +160,6 @@ p,
     position: relative;
 }
 .pic-5 {
-    position: relative;
-    margin: 35px 0px 35px 0px;
-}
-.pic-6 {
     position: relative;
     margin: 35px 0px 35px 0px;
 }
